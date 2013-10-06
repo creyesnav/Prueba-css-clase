@@ -1,4 +1,8 @@
-Prueba de css para clase de Front
+Pruebas de css y html para clase de Front
 ================
 
-El repositorio contiene un archivo .html y un archivo .css que construyen una recomposición de la imagen mostrada en clases.
+El repositorio contiene un los ejercicios de html y css realizados en clases.
+
+pruebaclase3.html --> Ejercicio de html y css sobre jerarquías de tamaños y colores de fuente
+
+pruebaclase4.html --> Ejercicio de css sobre posicionamiento y visualización de elementos
